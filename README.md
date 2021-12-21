@@ -13,7 +13,7 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ### Week 2
 #### Assignment 
-- Fashion MNIST _(C1_W2_Assignment.js)_
+- Fashion MNIST _[C1_W2_Assignment.js](/C1_Browser-based-TF-JS/W2/assignment/fashion-mnist.html)_
 #### Ungraded Lab
 1. MNIST _(C1_W2_Lab_1_mnist.html)_
 
