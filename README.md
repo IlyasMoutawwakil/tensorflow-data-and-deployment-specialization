@@ -6,7 +6,7 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ### Week 1
 #### Assignment 
-- Breast Cancer Classification _(C1_W1_Assignment.html)_
+- Breast Cancer Classification _[C1_W1_Assignment.html](/C1_Browser-based-TF-JS/W1/assignment/C1_W1_Assignment.html)_
 #### Ungraded Labs
 1. FirstHTML _(C1_W1_Lab_1_FirstHTML.html)_
 2. Iris Classifier _(C1_W1_Lab_2_iris_classifier.html)_
