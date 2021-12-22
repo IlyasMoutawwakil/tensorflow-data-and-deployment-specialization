@@ -44,11 +44,11 @@ You can also execute the jupyter notebooks in colab or binder on the nbviewer pa
 
 #### Week 4
 
-####### Assignment
+###### Assignment
 
 - [Rock Paper Scissors](/C1_Browser-based-TF-JS/W4/assignment/rpsls.html)
 
-#### Ungraded Lab
+###### Ungraded Lab
 
 1. [Rock Paper Scissors](/C1_Browser-based-TF-JS/W4/ungraded_lab/C1_W4_Lab_1_retrain.html)
 
