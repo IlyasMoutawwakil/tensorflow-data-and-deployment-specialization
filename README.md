@@ -1,6 +1,10 @@
 # tensorflow-data-and-deployment-specialization
 
 Below is the list of assignments and ungraded labs course-wise.
+I have also included the links to the solutions of the assignments.
+In the case of html files, the links are to the github page that will execute the code.
+In the case of jupyter notebooks, the links are to an nbviewer page that will render it in html.
+You can also open the jupyter notebook in colab on the nbviewer page.
 
 ## browser-based-models-with-tensorflow.js
 
@@ -12,8 +16,8 @@ Below is the list of assignments and ungraded labs course-wise.
 
 #### Ungraded Labs
 
-1. FirstHTML
-2. Iris Classifier
+1. [FirstHTML](/C1_Browser-based-TF-JS/W1/ungraded_labs/C1_W1_Lab_1_FirstHTML.html)
+2. [Iris Classifier](/C1_Browser-based-TF-JS/W1/ungraded_labs/C1_W1_Lab_2_iris_classifier.html)
 
 ### Week 2
 
@@ -29,13 +33,13 @@ Below is the list of assignments and ungraded labs course-wise.
 
 #### Assignment
 
-- [Converting a Python Model to JavaScript](/C1_Browser-based-TF-JS/W3/assignment/C1_W3_Assignment.ipynb)
+- [Converting a Python Model to JavaScript](https://nbviewer.org/urls/ilyasmoutawwakil.github.io/tensorflow-data-and-deployment-specialization/C1_Browser-based-TF-JS/W3/assignment/C1_W3_Assignment.ipynb)
 
 #### Ungraded Lab
 
 1. [Toxicity Classifier](/C1_Browser-based-TF-JS/W3/ungraded_labs/C1_W3_Lab_1_toxicity_classifier.html)
 2. [Image Classification Using MobileNet](/C1_Browser-based-TF-JS/W3/ungraded_labs/C1_W3_Lab_2_mobilenet.html)
-3. [Linear Model 1](/C1_Browser-based-TF-JS/W3/ungraded_labs/C1_W3_Lab_3A_linear_to_JavaScript.ipynb)
+3. [Linear Model 1](https://nbviewer.org/urls/ilyasmoutawwakil.github.io/tensorflow-data-and-deployment-specialization/C1_Browser-based-TF-JS/W3/ungraded_labs/C1_W3_Lab_3A_linear_to_JavaScript.ipynb)
 4. [Linear Model 2](/C1_Browser-based-TF-JS/W3/ungraded_labs/C1_W3_Lab_3B_linear.html)
 
 ### Week 4
@@ -54,48 +58,50 @@ Below is the list of assignments and ungraded labs course-wise.
 
 #### Assignment
 
-- Train Your Own Model and Convert It to TFLite _(C2_W1_Assignment.ipynb)_
+- [Train Your Own Model and Convert It to TFLite](https://nbviewer.org/github/IlyasMoutawwakil/tensorflow-data-and-deployment-specialization/blob/main/C2_Device-based-TF-lite/W1/assignment/C2_W1_Assignment.ipynb)
 
 #### Ungraded Labs
 
-1. Running TFLite Models _(C2_W1_Lab_1_Linear_Regression.ipynb)_
-2. Transfer Learning with TensorFlow Hub for TFLite _(C2_W1_Lab_2_Transfer_Learning.ipynb)_
+1. [Running TFLite Models](https://nbviewer.org/github/IlyasMoutawwakil/tensorflow-data-and-deployment-specialization/blob/main/C2_Device-based-TF-lite/W1/ungraded_labs/C2_W1_Lab_1_Linear_Regression.ipynb)
+
+2. [Transfer Learning with TensorFlow Hub for TFLite](https://nbviewer.org/github/IlyasMoutawwakil/tensorflow-data-and-deployment-specialization/blob/main/C2_Device-based-TF-lite/W1/ungraded_labs/C2_W1_Lab_2_Transfer_Learning.ipynb)
 
 ### Week 2 (Android)
 
 #### Assignment (Optional)
 
-- Rock, Paper & Scissors with TensorFlow Hub - TFLite _(C2_W2_Assignment.ipynb and C2_W2_Assignment_Solution.ipynb)_
+- [Rock, Paper & Scissors with TensorFlow Hub - TFLite](https://nbviewer.org/github/IlyasMoutawwakil/tensorflow-data-and-deployment-specialization/blob/main/C2_Device-based-TF-lite/W2/assignment_optional/C2_W2_Assignment_Solution.ipynb)
 
 #### Ungraded Labs
 
-- Cats vs Dogs
-- Image Classification
-- Object Detection
+- [Cats vs Dogs](/C2_Device-based-TF-lite/W2/ungraded_labs/android_apps/cats_vs_dogs)
+- [Image Classification](/C2_Device-based-TF-lite/W2/ungraded_labs/android_apps/image_classification)
+- [Object Detection](/C2_Device-based-TF-lite/W2/ungraded_labs/android_apps/object_detection)
 
 ### Week 3 (iOS)
 
 #### Assignment (Optional)
 
-- Rock, Paper & Scissors with TensorFlow Hub - TFLite _(C2_W3_Assignment.ipynb and C2_W3_Assignment_Solution.ipynb)_
+- [Rock, Paper & Scissors with TensorFlow Hub - TFLite](https://nbviewer.org/github/IlyasMoutawwakil/tensorflow-data-and-deployment-specialization/blob/main/C2_Device-based-TF-lite/W3/assignment_optional/C2_W3_Assignment_Solution.ipynb)
 
 #### Ungraded Labs
 
-- Cats vs Dogs
-- Image Classification
-- Object Detection
+- [Cats vs Dogs](/C2_Device-based-TF-lite/W3/ungraded_labs/ios_apps/cats_vs_dogs)
+- [Image Classification](/C2_Device-based-TF-lite/W3/ungraded_labs/ios_apps/image_classification)
+- [Object Detection](/C2_Device-based-TF-lite/W3/ungraded_labs/ios_apps/object_detection)
 
 ### Week 4 (Raspberry Pi)
 
 #### Assignment (Optional)
 
-- Rock, Paper & Scissors with TensorFlow Hub - TFLite _(C2_W4_Assignment.py and C2_W2_Assignment_Solution.py)_
+- [Rock, Paper & Scissors with TensorFlow Hub - TFLite](https://github.com/IlyasMoutawwakil/tensorflow-data-and-deployment-specialization/blob/main/C2_Device-based-TF-lite/W4/assignment_optional/C2_W4_Assignment_Solution.py)
 
 #### Ungraded Labs
 
-- Cats vs Dogs
-- Image Classification
-- Object Detection
+- [Image Classification](/C2_Device-based-TF-lite/W4/ungraded_labs/image_classification)
+- [Object Detection](/C2_Device-based-TF-lite/W4/ungraded_labs/object_detection)
+- [Transfer Learning](/C2_Device-based-TF-lite/W4/ungraded_labs/transfer_learning)
+- [Hyperparameter Tuning](/C2_Device-based-TF-lite/W4/ungraded_labs/hyperparameter_tuning)
 
 ## data-pipelines-with-tensorflow-data-services
 
